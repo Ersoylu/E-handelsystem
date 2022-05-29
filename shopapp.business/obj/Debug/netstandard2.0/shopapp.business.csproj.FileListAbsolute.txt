@@ -1,0 +1,14 @@
+D:\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+D:\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+D:\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+D:\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+D:\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+D:\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+D:\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+D:\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+D:\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+D:\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+D:\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CoreCompileInputs.cache
+D:\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+D:\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+D:\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb
